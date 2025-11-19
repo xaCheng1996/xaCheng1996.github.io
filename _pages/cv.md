@@ -25,14 +25,16 @@ redirect_from:
 
 ## Research Interests
 <!-- ====== -->
-* Multi-modal representation and computing
-* Deepfake Detection, 
+* AI Safety
+* Deepfake Detection
 * Misinformation
+* Diffusion Models
 
 ## Academic Services
+**Reviewer**
 <!-- ===== -->
-** Reviewer **
-* CVPR  (2022-2026), ICCV (2023-2025), ECCV 2024, NeuIPS (2023-2025), ICML (2023-2025), ICLR (2023-2026), ACM MM (2022-2025)
+* CVPR  (2022-2026), ICCV (2023-2025), ECCV 2024, NeuIPS (2023-2025), ICML (2023-2025), ICLR (2023-2026), 
+ ACM MM (2022-2025), AAAI (2023-2026), IJCAI (2024-2025), AISTATS (2025-2026)
 * IEEE TPAMI, IEEE TIP, IEEE TKDE, IEEE TIFS, IEEE TMM, IEEE TCSVT, ACM ToMM
 
 <!-- Publications
