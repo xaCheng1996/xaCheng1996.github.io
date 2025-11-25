@@ -23,11 +23,13 @@ author_profile: true
 
 **Fair Deepfake Detectors Can Generalize**<br />**Harry Cheng,** Ming-Hui Liu, Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
 (NeurIPS 2025, **CCF-A**)<br />
-[[PDF]](https://arxiv.org/abs/2408.06569) <br />
+[[PDF]](https://arxiv.org/abs/2408.06569) [[Code for paper]](https://github.com/xaCheng1996/DAID)<br />
+NOTE: This paper is also applied to The Competition of Fairness in AI Face Detection @ NeurIPS 25 [(link)](https://sites.google.com/view/aifacedetection/home), 
+and win the 2nd🥈 place. [[Code for competition]](https://github.com/xaCheng1996/DAID_AI_Face)
 
 **Social Debiasing for Fair Multi-modal LLMs**<br />**Harry Cheng,** Yangyang Guo, Qingpei Guo, Ming Yang, Tian Gan, Weili Guan, Liqiang Nie<br />
 (ICCV 2025, **CCF-A**)<br />
-[[PDF]](https://arxiv.org/abs/2408.06569) <br />
+[[PDF]](https://arxiv.org/abs/2408.06569) [[Project]](https://github.com/xaCheng1996/Social_Debiasing_For_Fair_MLLMs)<br />
 
 **Learning Real Facial Concepts for Independent Deepfake Detection**<br />Ming-Hui Liu, **Harry Cheng,** Tianyi Wang, Xin Luo, Xin-Shun Xu<br />
 (IJCAI 2025, **CCF-A**)<br />
