@@ -37,6 +37,9 @@ redirect_from:
  ACM MM (2022-2025), AAAI (2023-2026), IJCAI (2024-2026), AISTATS (2025-2026)
 * IEEE TPAMI, IEEE TIP, IEEE TKDE, IEEE TIFS, IEEE TDSC, IEEE TMM, IEEE TCSVT, ACM ToMM
 
+**Area Chair, Meta-Reviewer, or Senior PC Member**
+ICME 2026
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
