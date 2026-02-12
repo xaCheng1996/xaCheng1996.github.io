@@ -38,7 +38,8 @@ redirect_from:
 * IEEE TPAMI, IEEE TIP, IEEE TKDE, IEEE TIFS, IEEE TDSC, IEEE TMM, IEEE TCSVT, ACM ToMM
 
 **Area Chair, Meta-Reviewer, or Senior PC Member**
-ICME 2026
+<!-- ===== -->
+* ICME 2026
 
 <!-- Publications
 ======
